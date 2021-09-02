@@ -1,3 +1,1 @@
-# Welcome to my profile
-
-I love python
+# Welcome to my collection of junk
