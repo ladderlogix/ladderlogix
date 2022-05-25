@@ -14,7 +14,7 @@ Fun little game brought turned into a simulation
 One of my first projects to predict you future (Code is terrible to look at)
 
 ### [Run Jar On Mac Script](https://github.com/SGlombicki/Run-Jar-On-Mac)
-One of my first projects to predict you future (Code is terrible to look at)
+Creats an easy to run script to run jar file on mac
 
 ### [Onshape Image Drawer](https://github.com/SGlombicki/Onshape-Image-Drawer)
 Used to make pictures on Onshape documents
