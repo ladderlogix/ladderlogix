@@ -1,7 +1,6 @@
 # Welcome to my collection of junk, I will be your guide
 
-Github Stats
-<br>
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
