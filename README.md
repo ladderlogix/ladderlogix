@@ -1,5 +1,7 @@
 # Welcome to my collection of junk
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
 ## Math Projects
 
 ### [Square Pi](https://github.com/SGlombicki/SquarePi)
