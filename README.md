@@ -2,7 +2,7 @@
 
 ## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-[![SGlombicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGlombicki)](https://github.com/anuraghazra/github-readme-stats)
+[![SGlombicki's GitHub stats](https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
