@@ -1,4 +1,4 @@
-# Welcome to my collection of junk, I will be your guide
+# Welcome to my Profile
 
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
