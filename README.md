@@ -7,7 +7,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true" />
     </td>
     <td class="tg-0pky" rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGlombicki&theme=gruvbox&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGlombicki&theme=gruvbox&hide_border=true&langs_count=8" />
     </td>
   </tr>
   <tr>
