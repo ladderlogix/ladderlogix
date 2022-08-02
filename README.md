@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td class="tg-0pky">
-      <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true" />
     </td>
   </tr>
 </thead>
