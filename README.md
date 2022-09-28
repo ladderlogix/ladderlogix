@@ -1,6 +1,6 @@
 # Welcome to my Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe">
-[trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
 <thead>
   <tr style="border:none;">
