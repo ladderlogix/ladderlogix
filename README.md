@@ -1,4 +1,6 @@
 # Welcome to my Github Profile
+I am a sophmore in High School and this is my collection of useful stuff and scripts. I am also part of the Red Horse Army CTF Team.
+## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
