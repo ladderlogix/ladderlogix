@@ -13,7 +13,7 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
     </td>
   </tr>
   <tr style="border: 0;">
-    <td class="tg-0pky" style="border:none;">
+    <td class="tg-0pky" style="border: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true"/>
     </td>
   </tr>
