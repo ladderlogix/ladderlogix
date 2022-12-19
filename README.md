@@ -3,16 +3,16 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)
-<table bgcolor="#ffffff">
-  <tr bgcolor="#ffffff">
+<table>
+  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true" />
     </td>
-    <td rowspan="2">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGlombicki&theme=gruvbox&hide_border=true&langs_count=8" />
     </td>
   </tr>
-  <tr bgcolor="#ffffff">
+  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true"/>
     </td>
