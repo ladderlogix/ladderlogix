@@ -8,7 +8,7 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true" />
     </td>
-    <td>
+    <td rowspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGlombicki&theme=gruvbox&hide_border=true&langs_count=8" />
     </td>
   </tr>
