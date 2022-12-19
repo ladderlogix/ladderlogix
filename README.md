@@ -2,7 +2,7 @@
 I am a sophmore in High School and this is my collection of useful stuff and scripts. I like python and C/C++. I am also part of the Red Horse Army CTF Team.
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
 <thead>
   <tr style="border:none;">
