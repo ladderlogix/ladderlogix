@@ -3,6 +3,9 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)
+<style>
+table {border: none;}
+<\style>
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
@@ -18,6 +21,3 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
     </td>
   </tr>
 </table>
-<style>
-table {border: none;}
-<\style>
