@@ -18,3 +18,6 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
     </td>
   </tr>
 </table>
+<style>
+table {border: none;}
+<\style>
