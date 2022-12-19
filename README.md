@@ -1,5 +1,5 @@
 # Welcome to my Github Profile
-I am a sophmore in High School and this is my collection of useful stuff and scripts. I like python and C/C++. I am also part of the Red Horse Army CTF Team.
+I am a sophmore in High School and this is my collection of useful stuff and scripts. My favortie programing languages are C/C++ but i recently have been doing more and more python and have been enjoying it. I am also part of the Red Horse Army CTF Team and lead our cyberpatriot team at my school.
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)
