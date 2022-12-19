@@ -14,7 +14,7 @@ I am a sophmore in High School and this is my collection of useful stuff and scr
   </tr>
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true"/>
     </td>
   </tr>
 </table>
