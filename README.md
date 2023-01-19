@@ -1,7 +1,7 @@
 # Welcome to my Github Profile
 I am a sophmore in High School and this is my collection of useful stuff and scripts. My favortie programing languages are C/C++ but i recently have been doing more and more python and have been enjoying it. I am also part of the Red Horse Army CTF Team and lead our cyberpatriot team at my school.
 ## Social
-[LinkedIn](https://www.linkedin.com/in/stephenglombicki/)
+<a href="https://linkedin.com/in/stephenglombicki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephenglombicki" height="30" width="40" /></a>
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)
