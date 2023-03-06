@@ -1,5 +1,5 @@
 # Welcome to my Github Profile
-I am a sophmore in High School and this is my collection of useful stuff and scripts. My favortie programing languages are C/C++ but i recently have been doing more and more python and have been enjoying it. I am also part of the Red Horse Army CTF Team and lead our cyberpatriot team at my school.
+I am a sophmore in High School and this is my collection of useful scripts, quick refrences, and compiled programs. My favortie programing languages are C/C++ but i recently have been doing more and more python and have been enjoying it. I am also part of the Red Horse Army CTF Team and lead our cyberpatriot team at my school.
 ## Social
 <a href="https://linkedin.com/in/stephenglombicki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephenglombicki" height="30" width="40" /></a>
 ## Languages && Skills
