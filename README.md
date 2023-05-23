@@ -7,7 +7,7 @@ I am a sophmore in High School and this is my collection of useful scripts, quic
 
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
-![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13&&&title=-Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=-Reviews)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
