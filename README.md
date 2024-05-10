@@ -10,7 +10,7 @@ I am a Junior in High School and this is my collection of useful scripts, quick 
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 ![](https://komarev.com/ghpvc/?username=SGlombicki&color=red)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=Multilanguage,Stars,Followers,Repositories,Experince,Commits,PullRequests,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
