@@ -1,5 +1,5 @@
 # Welcome to my Github Profile
-I am a high school student interested in cybersecurity and operational technology (OT). I have dedicated myself to learning and understanding various technologies and concepts related to this field by earning certificates and participating in training. I have gotten my CCNA to understand the networks connecting multiple technologies. I use my CvCISO certification to understand and manage the risks these technologies bring to my lab environment. To verify risks, I use my red team knowledge gathered from the CRTO and CRTL to pentest and experiment with various technologies in my homelab. Not only do I have IT systems but also an OT network to play with. My training from Idaho National Labs allows me to understand OT risks better and perform ICS pentests.
+I am a high school student interested in cybersecurity and operational technology (OT). I have earned various certs to help aide me in my pursuit for more knowledge.
 
 I am also an active CTF player. I started the team 0xf1sh, which is in the top 50 in the United States. I have also won various US Cyber Challenge Competitions and am the president of my school's CyberPatriot club, where we rank in the top 100 teams.
 ## Languages && Skills
