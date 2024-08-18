@@ -9,20 +9,20 @@ I am a Senior in High School and this is my collection of useful scripts, quick 
 
 ## Cool Statics Stuff
 <img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
-![](https://komarev.com/ghpvc/?username=SGlombicki&color=red)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SGlombicki&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=MultiLanguage,Stars,Followers,Repositories,Experience,Commits,PullRequest,Issues,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=ladderlogix&color=red)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ladderlogix&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=MultiLanguage,Stars,Followers,Repositories,Experience,Commits,PullRequest,Issues,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SGlombicki&theme=gruvbox&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=ladderlogix&theme=gruvbox&hide_border=true" />
     </td>
     <td class="tg-0pky" rowspan="2" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGlombicki&theme=gruvbox&hide_border=true&langs_count=8" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladderlogix&theme=gruvbox&hide_border=true&langs_count=8" />
     </td>
   </tr>
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SGlombicki&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ladderlogix&show_icons=true&theme=gruvbox&hide_border=true" />
     </td>
   </tr>
 </table>
