@@ -9,7 +9,6 @@ I am a high school student interested in cybersecurity and operational technolog
 [https://lookup.ace-t.mctf.io/?id=1554213](https://lookup.ace-t.mctf.io/?id=1554213)
 
 ## Cool Statics Stuff
-<img src="https://tryhackme-badges.s3.amazonaws.com/glombo.png" alt="TryHackMe"><br>
 ![](https://komarev.com/ghpvc/?username=ladderlogix&color=red)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ladderlogix&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=MultiLanguage,Stars,Followers,Repositories,Experience,Commits,PullRequest,Issues,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
