@@ -7,7 +7,7 @@ I am a college student interested in cybersecurity and operational technology (O
 
 ## Cool Statics Stuff
 ![](https://komarev.com/ghpvc/?username=ladderlogix&color=red)
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=ladderlogix&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=MultiLanguage,Stars,Followers,Repositories,Experience,Commits,PullRequest,Issues,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=ladderlogix&theme=gruvbox&column=-1&no-frame=true&margin-w=13&title=MultiLanguage,Stars,Followers,Repositories,Experience,Commits,PullRequest,Issues,Organizations)](https://github.com/ryo-ma/github-profile-trophy)
 <table class="tg" cellspacing="0" cellpadding="0" style="border:none;">
   <tr style="border:none;">
     <td class="tg-0pky" style="border:none;">
